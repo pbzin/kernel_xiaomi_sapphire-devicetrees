@@ -28,7 +28,7 @@
 		mi,flatmode-status-check-enabled;
 		mi,local-hbm-enabled;
 		qcom,mdss-dsi-oled-panel-video-mode;
-		qcom,dsi-supported-dfps-list = <120 90 60>;
+		qcom,dsi-supported-dfps-list = <120 60>;
 		qcom,mdss-dsi-pan-fps-update = "dfps_immediate_porch_mode_vfp";
 		qcom,mdss-dsi-pan-enable-dynamic-fps;
 		qcom,mdss-dsi-tx-eot-append;
